@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: AV3D
+Version: 2.1.0
+Summary: Este paquete posee un conjuento de dos que se llaman "Area2D" y "Volumen3D"
+Home-page: UNKNOWN
+Author: El_Dddd
+Author-email: <eldddd67@gmail.com>
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: python,Math,Geometry,Pylib
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Beta
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
