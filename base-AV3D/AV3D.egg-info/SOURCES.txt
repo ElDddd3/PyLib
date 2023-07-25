@@ -1,8 +1,0 @@
-setup.py
-AV3D/Area2D.py
-AV3D/Volume3D.py
-AV3D/__init__.py
-AV3D.egg-info/PKG-INFO
-AV3D.egg-info/SOURCES.txt
-AV3D.egg-info/dependency_links.txt
-AV3D.egg-info/top_level.txt
